@@ -1,0 +1,21 @@
+{
+  "name": "@acot/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared TypeScript config for acot projects.",
+  "main": "tsconfig.json",
+  "files": ["tsconfig.json"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/acot-a11y/tsconfig.git"
+  },
+  "keywords": ["tsconfig", "typescript", "ts", "config", "configuration"],
+  "author": "wadackel <wadackel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acot-a11y/tsconfig/issues"
+  },
+  "homepage": "https://github.com/acot-a11y/tsconfig#readme"
+}
