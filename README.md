@@ -24,4 +24,4 @@ Write the following code in your `tsconfig.json`.
 
 ## License
 
-[MIT License @ CyberAgent, Inc.](./LICENSE)
+[MIT License @ wadackel](./LICENSE)
